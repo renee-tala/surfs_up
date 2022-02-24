@@ -8,9 +8,10 @@ Examining temperature trends in Oahu during June and December. This analysis wil
 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-The weather in June
+Summary Statistics for June
+![June_Temps](..Resources/june_temps.png?raw=true)
 
-The weather in December 
+Summary Statistics for December
 
 ## Summary 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
