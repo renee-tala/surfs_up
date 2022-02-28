@@ -18,6 +18,5 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 * 
 
 ## Summary 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 While people may still surfing in December, I don't believe it will be hot enough for customers to want to get ice cream. It's certainly hotter than winter weather in Northern states. Business will surely take a dip with the change in weather, but I believe it's still warm enough to want some ice cream after a day of surfing. 
 This analysis only provides the temperature during June and December. To make a better decision, additional anaylsis on precipitation and wind should be conducted. If possible, checking high and low tides for the best surfing times would benefit the analysis. Temperature is not the only factor when considering surfing, even though it might be for ice cream.
